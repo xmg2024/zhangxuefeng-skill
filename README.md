@@ -174,7 +174,7 @@
 ```bash
 npx skills add xmg2024/zhangxuefeng-skill
 or
-GIT_HTTP_CONNECT_TIMEOUT=120 npx skills add https://github.com/xmg2024/nvwa-skill.git -y
+GIT_HTTP_CONNECT_TIMEOUT=120 npx skills add https://github.com/xmg2024/zhangxuefeng-skill.git -y
 ```
 
 然后在 Claude Code 里：
