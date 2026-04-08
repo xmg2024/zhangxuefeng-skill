@@ -265,6 +265,8 @@ GIT_HTTP_CONNECT_TIMEOUT=120 npx skills add https://github.com/xmg2024/zhangxuef
 
 ```bash
 npx skills add xmg2024/nvwa-skill
+or
+GIT_HTTP_CONNECT_TIMEOUT=120 npx skills add https://github.com/xmg2024/nvwa-skill.git -y
 ```
 
 然后说「蒸馏一个XXX」就行了。
